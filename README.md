@@ -1,4 +1,4 @@
-# 📱 DCIT 324 Task Manager
+#  DCIT 324 Task Manager
 
 A mobile Task Manager application built with **React Native and Expo** as part of the **DCIT 324: Mobile Application Development** practical assignment at the University of Ghana.
 
@@ -29,7 +29,7 @@ The application includes:
 
 ## ✨ Features
 
-### 👋 Greeting Header
+###  Greeting Header
 
 Displays a personalized greeting and the number of tasks scheduled for the day.
 
@@ -55,7 +55,7 @@ The search and filter graphics are based on the original assets provided in the 
 
 ---
 
-### 📂 Categories
+###  Categories
 
 The application contains seven categories:
 
@@ -77,7 +77,7 @@ Each category card contains:
 
 ---
 
-### 📋 Ongoing Tasks
+### Ongoing Tasks
 
 The application contains eight ongoing tasks:
 
@@ -94,7 +94,7 @@ The tasks are displayed vertically and can be accessed by scrolling down the scr
 
 ---
 
-## 🎨 Design
+##  Design
 
 The application follows the visual style of the provided Figma reference, including:
 
@@ -111,7 +111,7 @@ The additional categories and task content were designed to remain visually cons
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React Native**
 - **Expo**
@@ -124,7 +124,7 @@ The additional categories and task content were designed to remain visually cons
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 DCIT324-TaskManager/
