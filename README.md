@@ -1,8 +1,6 @@
 #  DCIT 324 Task Manager
 
-A mobile Task Manager application built with **React Native and Expo** as part of the **DCIT 324: Mobile Application Development** practical assignment at the University of Ghana.
-
-The application recreates a provided Figma task manager interface and extends the design with additional categories and ongoing tasks while maintaining the original visual style.
+A mobile Task Manager application built with **React Native and Expo** as part of the **DCIT 324: Mobile Application Development** practical assignment 
 
 ---
 
